@@ -51,5 +51,5 @@ of holes in the paper, the photodiode on the other side will recieve varying vol
 
 Breadboard and IC layout.
 ![Close up of breadboard layout with SN754410 IC connections](https://github.com/staceywhitmore-inl/PidControler/blob/master/media/IMG-8606.jpg?raw=true)
-*(Notice the VCC2 and 3,4EN DIP pins (pins 8 & 9) broke off the H-bridge in transit and had to be reattached. Luckily, I was able to carefully solder on some replacement feet without further damaging the chip!)*
+*(The VCC2 and 3,4EN DIP pins (pins 8 & 9) broke off the H-bridge in transit and had to be reattached. Luckily, I was able to carefully solder on some replacement feet without further damaging the chip!)*
 
